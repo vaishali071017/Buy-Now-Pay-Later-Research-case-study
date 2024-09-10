@@ -6,6 +6,8 @@
 The Rise of Buy Now, Pay Later (BNPL)
 Explore the growth of BNPL services and assess their impact on consumer spending habits and credit risk in the fintech sector.
 
+🙇‍♀️ To view the research case study please click [here](https://github.com/vaishali071017/Buy-Now-Pay-Later-Research-case-study/blob/main/BNPL%20research%20study.pdf)
+
 **Content for research:**
 
 Buy Now Pay Later Business model and its function
